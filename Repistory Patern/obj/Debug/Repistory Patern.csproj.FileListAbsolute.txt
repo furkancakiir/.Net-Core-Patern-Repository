@@ -1,0 +1,7 @@
+C:\Users\thuck\source\repos\Repistory Patern\Repistory Patern\bin\Debug\Repistory Patern.exe.config
+C:\Users\thuck\source\repos\Repistory Patern\Repistory Patern\bin\Debug\Repistory Patern.exe
+C:\Users\thuck\source\repos\Repistory Patern\Repistory Patern\bin\Debug\Repistory Patern.pdb
+C:\Users\thuck\source\repos\Repistory Patern\Repistory Patern\obj\Debug\Repistory Patern.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\Repistory Patern\Repistory Patern\obj\Debug\Repistory Patern.exe
+C:\Users\thuck\source\repos\Repistory Patern\Repistory Patern\obj\Debug\Repistory Patern.pdb
+C:\Users\thuck\source\repos\Repistory Patern\Repistory Patern\obj\Debug\Repistory Patern.csprojAssemblyReference.cache
